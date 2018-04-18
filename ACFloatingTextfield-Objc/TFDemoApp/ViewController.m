@@ -25,6 +25,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [_textFieldPassword becomeFirstResponder];
+    
+    NSString *str = @"邵太祖专享";
 
 }
 
